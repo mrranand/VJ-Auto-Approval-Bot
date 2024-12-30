@@ -55,7 +55,7 @@ async def op(_, m :Message):
         return 
     keyboard = InlineKeyboardMarkup(
         [[
-            InlineKeyboardButton("🗯 Today's Deals", url="https://t.me/+EsL-cEvBSjQzOWU1"),
+            InlineKeyboardButton("🗯 Today's Deals", url="https://t.me/flipkart_loot_deal_offerss"),
             InlineKeyboardButton("💬 Support", url="https://t.me/Auto_RequestBot_discussion")
         ]]
     )
@@ -74,7 +74,7 @@ async def chk(_, cb : CallbackQuery):
         return 
     keyboard = InlineKeyboardMarkup(
         [[
-             InlineKeyboardButton("🗯 Today's Deals", url="https://t.me/+EsL-cEvBSjQzOWU1"),
+            InlineKeyboardButton("🗯 Today's Deals", url="https://t.me/flipkart_loot_deal_offerss"),
             InlineKeyboardButton("💬 Support", url="https://t.me/vj_bot_disscussion")
         ]]
     )
